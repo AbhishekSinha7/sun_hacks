@@ -1,0 +1,88 @@
+*{
+    background-image: url(./74174.png);
+    background-repeat: no-repeat;
+    background-size: 1700px 1080px;
+    
+}
+
+body{
+    background-image: url(./flag.png);
+    background-repeat: no-repeat;
+    background-color: #083AA9;
+    background-attachment: fixed;
+    background-position: 750px 100px;;
+}
+
+.text{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    font-size: 38px;
+    left: 500px;
+    top: 5px;
+}
+
+.cover{
+    position: absolute;
+    left: 280px;
+    top: 80px;
+}
+
+.forts{
+    width: 320px;
+    height: 320px;
+    position: absolute;
+    color: white;
+    top: 20px;
+    left: 1150px;
+    border-radius: 15%;
+    background-image: url(./fort1.jpg);
+    background-repeat: no-repeat;
+    background-size: 320px 320px;
+    box-shadow: 10px;
+}
+
+.f1{
+    
+        color: white;
+        font-weight: bold;
+        font-size: 26px;
+        position: absolute;
+        left: 125px;
+        background: none;
+    
+}
+
+.f1:hover{
+    transform: scale(1.5);
+}
+
+.heritage{
+    width: 320px;
+    height: 320px;
+    position: absolute;
+    color: white;
+    top: 370px;
+    left: 1150px;
+    border-radius: 15%;
+    background-image: url(./her1.jpg);
+    background-repeat: no-repeat;
+    background-size: 320px 320px;
+    box-shadow: 10px;
+}
+
+.h1{
+    
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+    position: absolute;
+    left: 115px;
+    background: none;
+
+}
+
+
+.h1:hover{
+    transform: scale(1.5);
+}

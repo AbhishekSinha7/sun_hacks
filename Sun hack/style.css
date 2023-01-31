@@ -1,0 +1,125 @@
+header{
+    
+    background-color: green;
+    height: 20px;
+    font-size: 26px;
+}
+
+body{
+   
+    background-image: url(./74174.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+img{
+    border-radius: 15%;
+    opacity: 0.5;
+}
+
+.MH{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    position: absolute;
+    left: 80px;
+}
+
+.maharastra{
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    color: white;
+    top: 200px;
+    left: 100px;
+    border-radius: 15%;
+    background-image: url(./Maharashtra.jpg);
+    background-repeat: no-repeat;
+    background-size: 280px 280px;
+    box-shadow: 10px;
+}
+
+.maharastra:hover{
+    transform: scale(1.2);
+}
+
+.gujrat{
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    color: white;
+    background-color: white;
+    top: 200px;
+    left: 420px;
+    background-image: url(./gujrat11.jpg);
+    background-repeat: no-repeat;
+    background-size: 280px 280px;
+    border-radius: 15%;
+}
+
+.gujrat:hover{
+    transform: scale(1.2);
+}
+
+.GJ{
+    
+        color: white;
+        font-weight: bold;
+        font-size: 22px;
+        position: absolute;
+        left: 110px;
+    
+}
+
+.rajasthan{
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    color: white;
+    background-color: white;
+    top: 200px;
+    left: 740px;
+    background-image: url(./rajasthan.jpg);
+    background-repeat: no-repeat;
+    background-size: 280px 280px;
+    border-radius: 15%;
+}
+
+.rajasthan:hover{
+    transform: scale(1.2);
+}
+
+.RJ{
+    color: white;
+        font-weight: bold;
+        font-size: 22px;
+        position: absolute;
+        left: 85px;
+}
+
+.uttarakhand{
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    color: white;
+    background-color: white;
+    top: 200px;
+    left: 1060px;
+    background-image: url(./uttarakhand.jpg);
+    background-repeat: no-repeat;
+    background-size: 280px 280px;
+    border-radius: 15%;
+}
+
+.uttarakhand:hover{
+    transform: scale(1.2);
+}
+
+.uk{
+    color: white;
+        font-weight: bold;
+        font-size: 22px;
+        position: absolute;
+        left: 80px;
+}
